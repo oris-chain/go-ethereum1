@@ -1,4 +1,4 @@
-## Go Ethereum
+## Go ORIS Smart Chain
 
 Official Golang execution layer implementation of the Ethereum protocol.
 
